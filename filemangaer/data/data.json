@@ -1,0 +1,10 @@
+{
+    "ls": "list hame fil ha va poshe ha",
+    "pwd" : "didan masir",
+    "lsit": "list hame fil ha va poshe ha",
+    "cd" : "raftan be poshe dige [file]",
+    "mkdir": "sakhte poshe ya",
+    "rm": "hazfe poshe",
+    "remove": "hazfe file"
+    
+}

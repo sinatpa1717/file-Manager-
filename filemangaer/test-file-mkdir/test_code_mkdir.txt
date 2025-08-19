@@ -1,0 +1,19 @@
+#test code 
+from mkdir_file_test_code import mkdir_test_code_file_t 
+def test_code_asami():
+    assert mkdir_test_code_file_t (name_file_user="sina")
+    assert mkdir_test_code_file_t (name_file_user="star") 
+    assert mkdir_test_code_file_t (name_file_user="ali") 
+def test_code_int():
+    assert mkdir_test_code_file_t (name_file_user=1) 
+    assert mkdir_test_code_file_t (name_file_user=44)
+
+def test_code_sy_ya_agib():
+    assert mkdir_test_code_file_t (name_file_user="")
+    assert mkdir_test_code_file_t (name_file_user=" ") 
+
+def test_code_karakter():
+    assert mkdir_test_code_file_t (name_file_user="star@") 
+    assert mkdir_test_code_file_t (name_file_user="star%") 
+    assert mkdir_test_code_file_t (name_file_user="star#") 
+    

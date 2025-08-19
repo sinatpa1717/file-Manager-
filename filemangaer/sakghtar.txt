@@ -1,0 +1,15 @@
+1-data
+2-__pycache__
+3-test-file-m 
+4 - run.py
+5 - runcommand.py
+6 - seachfile.py
+7 - mkdir.py
+8- open_data.py
+9 - pwdfilem.py
+10 - remove_file.py
+11 - rmfile.py
+12 - cdfile.py
+13 - data.py
+14-ls
+15-stat
